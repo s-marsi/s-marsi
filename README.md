@@ -1,16 +1,15 @@
 ### Hi there 👋
 
-<h4> I'm from fez, Morocco. <br>Muslim.</h1>
-Full stack web developer.
+<h4> I'm from fez, Morocco. <br>Muslim. <br> Full stack web developer.</h1>
+
 /- Tools I master:
 
-Programming languages: python, JavaScript, PHP, html, CSS, SQL, Mongo db.
-Technologies & Frameworks: React, Redux, Laravel, bootstrap, tailwind, node, express, Jira.
+<b>Programming languages : </b> JavaScript, PHP, SQL, HTML, CSS.
+<b>Technologies & Frameworks : </b> React, Redux, Laravel, Lifewire, Bootstrap, nodeJs, expressJs, Jira.
+
 /- Useful links:
 
-linkedin
-Facebook
-Instagram
+<a href="https://www.linkedin.com/in/soufyane-marsi-10b186195"> linkedin </a>
 <!--
 **s-marsi/s-marsi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
