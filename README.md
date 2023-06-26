@@ -4,7 +4,7 @@
 
 /- Tools I master:
 
-<b>Programming languages : </b> JavaScript, PHP, SQL, HTML, CSS.
+<b>Programming languages : </b> JavaScript, PHP, SQL, HTML, CSS. <br>
 <b>Technologies & Frameworks : </b> React, Redux, Laravel, Lifewire, Bootstrap, nodeJs, expressJs, Jira.
 
 /- Useful links:
