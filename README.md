@@ -9,7 +9,7 @@
 
 /- Useful links:
 
-<a href="https://www.linkedin.com/in/soufyane-marsi-10b186195"> linkedin </a>
+<a href="https://www.linkedin.com/in/soufyane-marsi-10b186195">linkedin</a>
 <!--
 **s-marsi/s-marsi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
