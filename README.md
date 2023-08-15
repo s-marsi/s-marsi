@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<h4> I'm from fez, Morocco. <br>Muslim. <br> Full stack web developer.</h1>
+<h4>I'm from fez, Morocco. <br>Muslim. <br> Full stack web developer.</h1>
 
 /- Tools I master:
 
